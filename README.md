@@ -1,2 +1,2 @@
-# weather-app
-Check weather of any city
+# Weather-App
+Check weather of different places.
